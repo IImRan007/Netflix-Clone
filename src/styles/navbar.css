@@ -1,0 +1,17 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_logo {
+  width: 7rem;
+  object-fit: contain;
+}
+.nav_avatar {
+  width: 2rem;
+  object-fit: contain;
+}
